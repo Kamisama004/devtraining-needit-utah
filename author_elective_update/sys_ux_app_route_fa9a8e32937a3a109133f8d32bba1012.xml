@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="NeedIt Experience">503a79fa93b63a109133f8d32bba1010</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <interoperable>false</interoperable>
+        <name>Simple List</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>simple-list</route_type>
+        <screen_type display_value="Simple List">329a8e32937a3a109133f8d32bba100e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>Shin</sys_created_by>
+        <sys_created_on>2026-02-05 09:02:40</sys_created_on>
+        <sys_id>fa9a8e32937a3a109133f8d32bba1012</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Simple List</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_fa9a8e32937a3a109133f8d32bba1012</sys_update_name>
+        <sys_updated_by>Shin</sys_updated_by>
+        <sys_updated_on>2026-02-06 03:34:54</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=fa9a8e32937a3a109133f8d32bba1012"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>87d34c46fb38ea50363cf633beefdcd7</instance_id>
+        <instance_name>dev324206</instance_name>
+        <name>sys_ux_app_route_fa9a8e32937a3a109133f8d32bba1012</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="NeedIt Experience">503a79fa93b63a109133f8d32bba1010</app_config><description/><extension_point/><fields/><icon/><interoperable>false</interoperable><name>Simple List</name><optional_parameters/><order>0</order><parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent><parent_macroponent_composition_element_id/><route_type>simple-list</route_type><screen_type display_value="Simple List">329a8e32937a3a109133f8d32bba100e</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>Shin</sys_created_by><sys_created_on>2026-02-05 09:02:40</sys_created_on><sys_id>fa9a8e32937a3a109133f8d32bba1012</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Simple List</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_app_route_fa9a8e32937a3a109133f8d32bba1012</sys_update_name><sys_updated_by>Shin</sys_updated_by><sys_updated_on>2026-02-06 03:34:54</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=fa9a8e32937a3a109133f8d32bba1012"/></record_update>]]></payload>
+        <payload_hash>1911951155</payload_hash>
+        <record_name>Simple List</record_name>
+        <reverted_from/>
+        <source>e259b93a93b63a109133f8d32bba1014</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Shin</sys_created_by>
+        <sys_created_on>2026-02-06 03:34:54</sys_created_on>
+        <sys_id>9f290acb93f6ba109133f8d32bba101d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c310458e10000001</sys_recorded_at>
+        <sys_updated_by>Shin</sys_updated_by>
+        <sys_updated_on>2026-02-06 03:34:54</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>db290acb11f6ba1066758e6be99dfc1c</update_guid>
+        <update_guid_history>db290acb11f6ba1066758e6be99dfc1c:1911951155,b27d86b6687a3a108c0f0295d33a2d32:-1980572526,dc6d06763f7a3a10c88869ffc5fcc32f:616015979,f69a8e329f7a3a10fe4b0f2af18e0f16:1911951155</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Shin</sys_created_by>
+        <sys_created_on>2026-02-06 03:41:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>414148218c9b40c0908350c6ffa85590</sys_id>
+        <sys_metadata>fa9a8e32937a3a109133f8d32bba1012</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple List</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_fa9a8e32937a3a109133f8d32bba1012</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_fa9a8e32937a3a109133f8d32bba1012">9f290acb93f6ba109133f8d32bba101d</sys_update_version>
+        <sys_updated_by>Shin</sys_updated_by>
+        <sys_updated_on>2026-02-06 03:41:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
